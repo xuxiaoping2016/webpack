@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "iconfont";
+  src: url(./iconfont.eot?t=1563853274371);
+  src: url(./iconfont.eot?t=1563853274371#iefix) format('embedded-opentype'),
+  url(./iconfont.woff?t=1563853274371) format('woff'),
+  url(./iconfont.ttf?t=1563853274371) format('truetype'),
+  url(./iconfont.svg?t=1563853274371#iconfont) format('svg'); 
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-account:before {
+  content: "\e60e";
+}
+
+.icon-delete:before {
+  content: "\e60f";
+}
+
+.icon-cart:before {
+  content: "\e610";
+}
+
+.icon-remind:before {
+  content: "\e611";
+}
+
